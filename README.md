@@ -1,4 +1,4 @@
-# Shopping website
+# Shopping Bucket
 
-Website is using html css and javascript
-shopping bucket
+Website is using html css and javascript.
+
